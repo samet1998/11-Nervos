@@ -47,7 +47,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyqwadsvmdk8gexejherpkupmf4rfy2vr
       "stateMutability": "view",
       "type": "function"
     }
-  ]
+  ];
  
  8. Your Tron address (in text format).
    
